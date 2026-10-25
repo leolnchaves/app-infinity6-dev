@@ -1,0 +1,1 @@
+var e=`/assets/google-logo-DEem_ODJ.png`,t=`/assets/microsoft-logo-CT_n_FQo.png`;export{e as n,t};
