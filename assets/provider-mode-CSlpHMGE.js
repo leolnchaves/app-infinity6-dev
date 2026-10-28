@@ -1,1 +1,0 @@
-import{i as e}from"./jsx-runtime-B-hcVAMW.js";var t=e({assortmentProviderModeFor:()=>c,providerModeFor:()=>i,uploadProviderModeFor:()=>o}),n=`mock`,r={};function i(e){return r[e]??n}var a={};function o(e){return a[e]??n}var s={getAssortmentPanel:`mock`,getPdvSuggestedOrder:`mock`};function c(e){return s[e]}export{o as i,i as n,t as r,c as t};

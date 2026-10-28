@@ -1,1 +1,0 @@
-import{a as e,c as t,i as n,r}from"./types-BFm3hydF.js";var i=[`fashion`,`consumer-electronics`,`cpg`,`beauty`],a=n(i),o=r(`status`,[t({status:e(`configured`),domainId:a}),t({status:e(`missing`)})]),s=t({domainId:a});export{s as i,a as n,o as r,i as t};

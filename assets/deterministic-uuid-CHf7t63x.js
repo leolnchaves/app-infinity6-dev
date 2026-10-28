@@ -1,0 +1,1 @@
+async function e(e){let t=new Uint8Array(await crypto.subtle.digest(`SHA-1`,new TextEncoder().encode(`i6-decision|${e}`))).slice(0,16);t[6]=t[6]&15|80,t[8]=t[8]&63|128;let n=Array.from(t,e=>e.toString(16).padStart(2,`0`)).join(``);return`${n.slice(0,8)}-${n.slice(8,12)}-${n.slice(12,16)}-${n.slice(16,20)}-${n.slice(20)}`}export{e as t};
