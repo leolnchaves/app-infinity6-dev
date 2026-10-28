@@ -1,1 +1,0 @@
-var e=`mock`,t={};function n(n){return t[n]??e}var r={};function i(t){return r[t]??e}export{n as providerModeFor,i as uploadProviderModeFor};

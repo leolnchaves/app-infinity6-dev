@@ -1,0 +1,1 @@
+var e=class extends Error{kind;diagnosticStage;reference;constructor(e,t,n){super(t),this.name=`DataGatewayError`,this.kind=e,n?.diagnosticStage&&(this.diagnosticStage=n.diagnosticStage),n?.reference&&(this.reference=n.reference)}};export{e as t};
