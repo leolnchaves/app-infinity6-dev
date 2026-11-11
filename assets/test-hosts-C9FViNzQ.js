@@ -1,0 +1,1 @@
+var e=[`localhost`,`127.0.0.1`,`dev.app.infinity6.ai`];function t(){if(typeof window>`u`)return!1;let t=window.location.hostname;return e.some(e=>e===t)?!0:n(t)}function n(e){return!1}function r(e=typeof window>`u`?null:window.location.hostname){return e?e===`localhost`||e===`127.0.0.1`||n(e):!1}export{t as n,r as t};

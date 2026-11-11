@@ -1,0 +1,1 @@
+import{a as e}from"./button-B0xA3T6J.js";var t=e(`minus`,[[`path`,{d:`M5 12h14`,key:`1ays0h`}]]);export{t};
