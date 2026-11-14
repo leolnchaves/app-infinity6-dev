@@ -1,1 +1,0 @@
-var e=new Map;function t(t){return e.get(t)}function n(t,n){e.set(t,n)}function r(t){e.delete(t)}export{t as n,n as r,r as t};

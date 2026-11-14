@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{t}from"./missing-value-_KPdMN5B.js";import{i as n}from"./errors-dV5hhgpO.js";import{t as r}from"./use-translation-CfLoezna.js";var i=e();function a({error:e,children:a}){let{t:o}=r();return n(e)?(0,i.jsx)(t,{label:o(`discovery.analytics.metric.missing`)}):(0,i.jsx)(i.Fragment,{children:a})}export{a as t};
